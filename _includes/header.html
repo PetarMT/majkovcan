@@ -2,9 +2,13 @@
   <div class="logo">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </div>
-  <nav>
-    {% for item in site.data.settings.menu %}
+<nav>
+  {% for item in site.data.settings.menu %}
+    {% if item.url contains 'http' %}
+      <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>
+    {% else %}
       <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
-    {% endfor %}
-  </nav>
+    {% endif %}
+  {% endfor %}
+</nav>
 </header>
