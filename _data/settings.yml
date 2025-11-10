@@ -5,6 +5,7 @@ menu:
 - {name: 'Projekt MMSU', url: ''}
 - {name: 'O stranici',    url: 'about'}
 - {name: 'Kontakt',  url: 'contact'}
+- {name: 'Kontakt',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
