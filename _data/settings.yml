@@ -4,8 +4,8 @@
 menu:
 - {name: 'Projects', url: ''}
 - {name: 'Blog',     url: 'https://petarmt.github.io/Blog/'}
-- {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+- {name: 'O stranici',    url: 'about'}
+- {name: 'Kontakt',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
