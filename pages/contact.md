@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+Ako me trebate, pošaljite mi [mail](mailto:Pmajkovca@unipu.hr) ili mi pošaljite [tweet](https://x.com/intent/post?text=%40PetarMT).
