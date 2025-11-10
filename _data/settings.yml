@@ -2,17 +2,16 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'https://petarmt.github.io/Blog/'}
-- {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+- {name: 'Projektni zadatak MMSU', url: ''}
+- {name: 'O stranici',    url: 'about'}
+- {name: 'Kontakt',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Omiljeni sketovi',   url: 'proj-1'}
-- {name: 'Omiljeni sportovi',   url: 'proj-2'}
+- {name: 'FL studio',   url: 'proj-1'}
+- {name: 'Audacity',   url: 'proj-2'}
 - {name: 'Omiljeni citati', url: 'proj-3'}
 - {name: 'Omiljena mjesta',  url: 'proj-4'}
 - {name: 'Omiljena hrana',  url: 'proj-5'}
@@ -21,11 +20,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'twitter',   link: 'https://x.com/Petarmt'}
+- {icon: 'soundcloud', link: 'https://soundcloud.com/axolo3778'}
+- {icon: 'github',    link: 'https://github.com/PetarMT'}
+- {icon: 'envelope',  link: 'mailto:Pmajkovca@unipu.hr'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
