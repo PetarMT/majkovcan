@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Henry David Thoreau - Pjesma'
+title: 'Prvi zadatak - Pjesma'
 ---
 
 Za prvi zadatak odlučio sam napraviti krataku melodiju  
