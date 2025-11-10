@@ -5,7 +5,7 @@ title: 'Prvi zadatak - Pjesma'
 
 Za prvi zadatak odlučio sam napraviti krataku melodiju  
 Otvaram FL studio koristeći "Empty" predložak  
-Kreiram par novih novih kanala te ih imenujem "BAS", "AKORDI" i "MELODIJA"
+Kreiram par novih novih kanala te ih imenujem "BAS", "AKORDI" i "GLAVNA MELODIJA"
 
 **Akordi**  
 
@@ -20,7 +20,7 @@ Bas note dodajem na najniže i najviše note akorda izmjenjično
 
 **Glavna Melodija**
 
-Za Melodiju odabirem "Sytrus" plugin i predložak "Prog"  
+Za glavnu melodiju odabirem "Sytrus" plugin i predložak "Prog"  
 Kreiram dvije melodije istih nota, a različitih dinamika  
 
 **Konstrukcija**
@@ -29,8 +29,10 @@ Dvije melodije posjećem i razvrstam naizmjenično, dodajem i završnu (tj. izla
 
 **Kraj**
 
-Pjesmu kao takvu izvozim kao .mp3 i kao .wav te prenosim na google drive
+Pjesmu kao takvu izvozim kao .mp3 te prenosim na google drive.  
 
 
 
 {% include image.html url="https://drive.google.com/file/d/1hntKc1NSUGQY-WPTph-hyH-3H7I_6VF4/view?usp=sharing" image="projects/proj-1/FL.jpg" %}
+
+Pritisnite na sliku gore kako biste otvorili google drive s pjesmom.  
