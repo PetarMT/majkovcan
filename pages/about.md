@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-# Projektni zadatak iz multimedijalnis Sustava
+# Projektni zadatak iz multimedijskih sustava
 
 Ovo je web stranica projektnog zadatka studenta [Petra Majkovčana Tratnjaka](https://github.com/PetarMT).
 
