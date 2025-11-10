@@ -5,7 +5,7 @@ title: 'Prvi zadatak - Pjesma'
 
 Za prvi zadatak odlučio sam napraviti krataku melodiju  
 Otvaram FL studio koristeći "Empty" predložak  
-Kreiram par novih novih kanala te ih imenujem "BAS", "AKORDI",  
+Kreiram par novih novih kanala te ih imenujem "BAS", "AKORDI" i "MELODIJA"
 
 ### Akordi  
 
