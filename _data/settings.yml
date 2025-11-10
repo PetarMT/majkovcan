@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projektni zadatak MMSU', url: ''}
+- {name: 'Projekt MMSU', url: ''}
 - {name: 'O stranici',    url: 'about'}
 - {name: 'Kontakt',  url: 'contact'}
 
@@ -12,8 +12,8 @@ menu:
 projects:
 - {name: 'FL studio',   url: 'proj-1'}
 - {name: 'Audacity',   url: 'proj-2'}
-- {name: 'Omiljeni citati', url: 'proj-3'}
-- {name: 'Omiljena mjesta',  url: 'proj-4'}
+- {name: 'Pixelorama', url: 'proj-3'}
+- {name: 'Kdenlive',  url: 'proj-4'}
 - {name: 'Omiljena hrana',  url: 'proj-5'}
 
 #-------------------------------
