@@ -10,11 +10,11 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'FL studio',   url: 'proj-1'}
-- {name: 'Audacity',   url: 'proj-2'}
-- {name: 'Pixelorama', url: 'proj-3'}
-- {name: 'Kdenlive',  url: 'proj-4'}
-- {name: 'Omiljena hrana',  url: 'proj-5'}
+- {name: 'Start up Jingle (FL Studio)',   url: 'proj-1'}
+- {name: 'Logo (Inkspace)',   url: 'proj-2'}
+- {name: 'Brošura (Canva)', url: 'proj-3'}
+- {name: 'Video Paljenja (Kdenlive)',  url: 'proj-4'}
+- {name: 'Logo alt / Landing page image (Krita)',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
