@@ -3,14 +3,14 @@
 
 menu:
 - {name: '⠀', url: ''}
-- {name: '⠀',    url: 'about'}
+- {name: 'O projektu',    url: 'about'}
 - {name: '⠀',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Start up Jingle (FL Studio)',   url: 'proj-1'}
+- {name: 'Start up Jingle (Beepbox.co)',   url: 'proj-1'}
 - {name: 'Logo (Inkspace)',   url: 'proj-2'}
 - {name: 'Brošura (Canva)', url: 'proj-3'}
 - {name: 'Video Paljenja (Kdenlive)',  url: 'proj-4'}
