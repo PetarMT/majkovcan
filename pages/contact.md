@@ -11,7 +11,7 @@ permalink: /contact
     <img src="{{ site.baseurl }}/assets/img/projects/proj-1/12.png" alt="12.png" class="gallery-img">
     <img src="{{ site.baseurl }}/assets/img/projects/proj-1/13.png" alt="13.png" class="gallery-img">
     <img src="{{ site.baseurl }}/assets/img/projects/proj-2/21.png" alt="21.png" class="gallery-img">
-    <img src="{{ site.baseurl }}/assets/img/projects/proj-2/22.png" alt="22.png" class="gallery-img">
+    <img src="{{ site.baseurl }}/assets/img/projects/proj-2/logo.png" alt="22.png" class="gallery-img">
     <img src="{{ site.baseurl }}/assets/img/projects/proj-3/31.png" alt="31.png" class="gallery-img">
     <img src="{{ site.baseurl }}/assets/img/projects/proj-3/32.png" alt="32.png" class="gallery-img">
     <img src="{{ site.baseurl }}/assets/img/projects/proj-3/33.png" alt="33.png" class="gallery-img">
