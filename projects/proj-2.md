@@ -1,8 +1,14 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Logo - Inkscape'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+Za logotip sam otvorio inkscape te odabrao alat za umetanje teksta. 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+Napisao sam "ASCII Softworks" te sam odabrao font "Moriai One". 
+
+<img src="{{ site.baseurl }}/assets/img/projects/proj-2/21.png" alt="21.png" class="gallery-img">
+
+Nakon toga sam uzeo "Rechtangle tool" i nacrtao liniju ispod teksta.
+
+<img src="{{ site.baseurl }}/assets/img/projects/proj-2/22.png" alt="22.png" class="gallery-img">

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: 'Start up Jingle'
+title: 'Start up Jingle - Beepbox.co'
 ---
 
-Prvo izrađujem "Start up Jingle" tj. veoma kratku uvodnu pjesmicu koja bi otsvirala tijekom svakog paljenja programa. 
+Izrađujem "Start up Jingle" tj. veoma kratku uvodnu pjesmicu koja bi otsvirala tijekom svakog paljenja programa. 
 Inspiracija za ovo mi je "start-up jingle" koji su bili prisutni na Windows XP operacijskim sustavima. 
 
-### 1. Beepbox.co
-
-Koristim online web alat [Beepbox.co](www.beepbox.co). 
+Koristim online web alat Beepbox.co
 
 Odabirem instumente "Music box 2" za Lead, "Recorder" za pratnju i "Fingered bass" za bass. 
 
