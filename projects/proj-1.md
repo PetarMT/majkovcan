@@ -8,7 +8,18 @@ Inspiracija za ovo mi je "start-up jingle" koji su bili prisutni na Windows XP o
 
 ### 1. Beepbox.co
 
-Koristim online web alat [Beepbox.co](beepbox.co). 
+Koristim online web alat [Beepbox.co](www.beepbox.co). 
+
+Odabirem instumente "Music box 2" za Lead, "Recorder" za pratnju i "Fingered bass" za bass. 
+
+<img src="{{ site.baseurl }}/assets/img/projects/proj-1/11.png" alt="11.png" class="gallery-img">
+<img src="{{ site.baseurl }}/assets/img/projects/proj-1/12.png" alt="12.png" class="gallery-img">
+
+
+Nakon toga, slažem kratnu melodiju i izvozim je.
+
+
+<img src="{{ site.baseurl }}/assets/img/projects/proj-1/13.png" alt="13.png" class="gallery-img">
 
 
 
