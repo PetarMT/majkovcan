@@ -22,4 +22,3 @@ Unutrašnjost logotipa na bijeloj strani bojam u svijetlozelenu boju, a unutraš
 
 Korstim se crvenom bojom kao kako bi mogao zamjeniti boje unutar logotipa.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-5/logo.jpg" %}
