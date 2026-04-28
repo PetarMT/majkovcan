@@ -1,8 +1,12 @@
 ---
 layout: post
-title: 'Project Five'
+title: 'Obojani (Alternatvni) Logo - Krita'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+<img src="{{ site.baseurl }}/assets/img/projects/proj-5/51.png" alt="51.png" class="gallery-img">
+<img src="{{ site.baseurl }}/assets/img/projects/proj-5/52.png" alt="52.png" class="gallery-img">
+<img src="{{ site.baseurl }}/assets/img/projects/proj-5/53.png" alt="53.png" class="gallery-img">
+<img src="{{ site.baseurl }}/assets/img/projects/proj-5/54.png" alt="54.png" class="gallery-img">
+<img src="{{ site.baseurl }}/assets/img/projects/proj-5/55.png" alt="55.png" class="gallery-img">
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
