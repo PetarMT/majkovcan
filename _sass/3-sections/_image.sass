@@ -29,3 +29,19 @@
     left: 50%
     transform: translate(-50%, -50%)
     -ms-transform: translate(-50%, -50%)
+
+.gallery
+  display: flex
+  flex-wrap: wrap
+  justify-content: center
+  gap: 10px
+
+.gallery-img
+  max-width: 200px
+  width: 100%
+  height: auto
+  object-fit: cover
+  @media (max-width: 768px)
+    max-width: 150px
+  @media (max-width: 480px)
+    max-width: 120px
