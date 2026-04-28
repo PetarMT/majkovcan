@@ -8,7 +8,7 @@ Inspiracija za ovo mi je "start-up jingle" koji su bili prisutni na Windows XP o
 
 ### 1. Beepbox.co
 
-Koristim online web alat [Beepbox.co](beepbox.co)
+Koristim online web alat [Beepbox.co](beepbox.co). 
 
 
 
