@@ -4,7 +4,7 @@
 menu:
 - {name: '⠀', url: ''}
 - {name: 'O projektu',    url: 'about'}
-- {name: '⠀',  url: 'contact'}
+- {name: 'Galerija',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
