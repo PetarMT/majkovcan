@@ -1,35 +1,12 @@
 ---
 layout: post
-title: 'Prvi zadatak - Pjesma'
+title: 'Start up Jingle'
 ---
 
-Za prvi zadatak odlučio sam napraviti krataku melodiju  
-Otvaram FL studio koristeći "Empty" predložak  
-Kreiram par novih novih kanala te ih imenujem "BAS", "AKORDI" i "GLAVNA MELODIJA"
+Prvo izrađujem "Start up Jingle" tj. veoma kratku uvodnu pjesmicu koja bi otsvirala tijekom svakog paljenja programa. 
+Inspiracija za ovo mi je "start-up jingle" koji su bili prisutni na Windows XP operacijskim sustavima. 
 
-**Akordi**  
-
-Za "Akorde" odabirem "FLEX" plugin i predložak "Electric 60s guitar"  
-Na sam predložak dodajem dodatak "Delay" da dobim učinak ponavljanja, "Reverb" da dobim jeke, i "Compressor" da stiša glazbu  
-Dodajem akorde u D molu   
-
-**BAS**
-
-Za "Bas" odabirem "FLEX" plugin i predložak "Fretless Bass"
-Bas note dodajem na najniže i najviše note akorda izmjenjično
-
-**Glavna Melodija**
-
-Za glavnu melodiju odabirem "Sytrus" plugin i predložak "Prog"  
-Kreiram dvije melodije istih nota, a različitih dinamika  
-
-**Konstrukcija**
-
-Dvije melodije posjećem i razvrstam naizmjenično, dodajem i završnu (tj. izlaznu) melodiju.
-
-**Kraj**
-
-Pjesmu kao takvu izvozim kao .mp3 te prenosim na google drive.  
+### 1. Beepbox.co
 
 
 
